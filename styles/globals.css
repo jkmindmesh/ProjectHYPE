@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&family=Alice&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#fff7f5] text-brown font-body;
+}
